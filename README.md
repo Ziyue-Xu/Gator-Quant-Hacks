@@ -78,7 +78,7 @@ This project is provided for educational and hackathon purposes. No specific lic
 
 ## Acknowledgements
 
-- **Author:** Ziyue Xu ([@Ziyue-Xu](https://github.com/Ziyue-Xu))
+- **Author:** Ziyue Xu ([@Ziyue-Xu](https://github.com/Ziyue-Xu)), Ziqi Wang ([@wangziqiolivia](https://github.com/wangziqiolivia)), Franco Fuentes-Sachetti ([@franco168](https://github.com/Franco168)), Aditya Chhabria ([@Adiii581](https://github.com/Adiii581))
 - **Event:** Gator Quant Hacks — Quant Puzzle Track
 - **Inspiration:** Quantitative finance puzzles, probability, and algorithmic problem-solving.
 
