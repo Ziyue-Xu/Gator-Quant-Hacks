@@ -1,16 +1,15 @@
 # Gator Quant Hacks — Quant Puzzle Track
 
-A submission for the **Quant Puzzle Track** of the Gator Quant Hacks hackathon. This repository contains the design paper, supporting evidence, and documentation for a quantitative finance puzzle-solving project.
+Submission for the **Quant Puzzle Track** of the Gator Quant Hacks hackathon. This repository contains the design paper and supporting evidence for a quantitative finance puzzle solution.
 
 ---
 
 ## 📋 Table of Contents
 
 - [Overview](#overview)
-- [Project Contents](#project-contents)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
+- [Repository Contents](#repository-contents)
+- [About the Quant Puzzle Track](#about-the-quant-puzzle-track)
+- [How to Review](#how-to-review)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
@@ -19,80 +18,43 @@ A submission for the **Quant Puzzle Track** of the Gator Quant Hacks hackathon. 
 
 ## Overview
 
-This repository is the official submission for the **Quant Puzzle Track** at Gator Quant Hacks. The project addresses a quantitative finance puzzle, presenting a structured solution accompanied by a formal design paper and an evidence appendix that documents the methodology and results.
+This repository is the official submission for the **Quant Puzzle Track** at Gator Quant Hacks. It presents a structured solution to a quantitative finance puzzle, consisting of a formal design paper and an evidence appendix that documents the methodology, derivations, and results.
 
-The repository currently hosts the core deliverables:
-
-- A **Design Paper** outlining the problem, approach, and solution.
-- An **Evidence Appendix** containing supporting data, derivations, or implementation details.
-
-> **Note:** This README is a starting point. If the project includes code (e.g., Python scripts, notebooks, or solvers), update the sections below to reflect how to install and run them.
+There is **no source code** in this repository. All deliverables are provided as PDF documents.
 
 ---
 
-## Project Contents
+## Repository Contents
 
 | File | Description |
 |------|-------------|
-| `Design Paper (2).pdf` | The main written deliverable describing the problem, methodology, and results. |
-| `Evidence Appendix (2).pdf` | Supplementary material with detailed derivations, data, or code listings. |
+| `Design Paper (2).pdf` | Main written deliverable describing the problem, approach, and solution. |
+| `Evidence Appendix (2).pdf` | Supplementary material with detailed derivations, data, or supporting evidence. |
 | `README.md` | This file. |
 
 ---
 
-## Getting Started
+## About the Quant Puzzle Track
 
-### Prerequisites
+The Quant Puzzle Track challenges participants to solve a quantitative finance puzzle and present their reasoning in a clear, documented format. Submissions are evaluated on the rigor of the solution, the clarity of the explanation, and the quality of the supporting evidence.
 
-If the project includes code, list the required tools here. For example:
+This repository contains the complete submission for that track, including both the main paper and the appendix.
 
-- Python 3.8+ (if applicable)
-- `pip` or `conda` for dependency management
-- Jupyter Notebook (for interactive analysis)
+---
 
-### Installation
+## How to Review
 
-1. **Clone the repository**
+1. Clone or download the repository:
 
    ```bash
    git clone https://github.com/Ziyue-Xu/Gator-Quant-Hacks.git
-   cd Gator-Quant-Hacks
    ```
 
-2. **Install dependencies** (if code is present)
+2. Open the PDFs with any standard PDF reader:
+   - `Design Paper (2).pdf` — start here for the full solution.
+   - `Evidence Appendix (2).pdf` — consult for detailed derivations and supporting material.
 
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Open the design paper**
-
-   Use any PDF reader to view `Design Paper (2).pdf` and `Evidence Appendix (2).pdf`.
-
----
-
-## Usage
-
-- **To review the solution:** Open the Design Paper and Evidence Appendix PDFs.
-- **To run any code (if added later):** Follow the instructions in the respective source files or notebooks.
-
-If the repository is expanded with code, add a section like:
-
-```bash
-python solver.py --input data.csv --output results.csv
-```
-
----
-
-## Project Structure
-
-```
-Gator-Quant-Hacks/
-├── Design Paper (2).pdf       # Main design paper
-├── Evidence Appendix (2).pdf  # Supporting evidence
-├── README.md                  # Project documentation
-└── (future code/ notebooks)   # Placeholder for any source code
-```
+No installation, dependencies, or code execution are required.
 
 ---
 
